@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LukasKutscher
+- 👀 I’m interested in ... Collaboration
+- 🌱 I’m currently learning ... - Coming soon
+- 💞️ I’m looking to collaborate on ... Implementation on Ideas : CoCo
+- 📫 How to reach me ... Write me
